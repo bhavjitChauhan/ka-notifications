@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/eliasmurcray/ka-notifications#readme",
   "devDependencies": {
+    "@types/ace": "^0.0.52",
     "@types/html-webpack-plugin": "^3.2.6",
     "@types/webpack-env": "^1.18.1",
     "@typescript-eslint/eslint-plugin": "^6.7.5",

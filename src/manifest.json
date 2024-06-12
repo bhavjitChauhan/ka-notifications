@@ -34,7 +34,7 @@
 	"host_permissions": ["https://www.khanacademy.org/"],
 	"web_accessible_resources": [
 		{
-			"resources": ["fetch-override.js"],
+			"resources": ["ace-override.js", "fetch-override.js"],
 			"matches": ["https://www.khanacademy.org/*"]
 		}
 	],

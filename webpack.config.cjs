@@ -12,6 +12,7 @@ module.exports = {
 		popup: "/src/ts/popup.ts",
 		content: "/src/ts/content.ts",
 		"fetch-override": "/src/ts/fetch-override.ts",
+		"ace-override": "/src/ts/ace-override.ts",
 	},
 	resolve: {
 		extensions: [".ts"],
